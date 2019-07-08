@@ -1,0 +1,4 @@
+# Building and Deploying Applications with TensorFlow:
+
+## Welcome
+ Do you want to learn how to use deep learning in your applications? Google's TensorFlow is one of the most popular tools for deep learning. With TensorFlow, you can build your own state-of-the-art machine learning systems and use them to power your own applications. Hi, I'm Adam Geitgey. In this course, we will learn how to use TensorFlow to build and deploy machine learning models. First, we will cover how to get TensorFlow installed and running on your system. Then, we will explore how to create and train a machine learning model in TensorFlow. Next, we will use TensorFlow's visualization tools to analyze and improve our machine learning model. Finally we will deploy the model to the cloud where we can call it from any program. If you want to learn how to incorporate machine learning methods in your own applications, this is the right place to start. Let's dive in.
